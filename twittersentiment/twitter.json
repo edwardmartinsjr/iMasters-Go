@@ -1,0 +1,42 @@
+[
+    {
+        "Tweet": "I love this car",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "This view is amazing",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "I feel great this morning",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "I am so excited about the concert",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "He is my best friend",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "I do not like this car",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "I crash my car",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "I feel tired this morning",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "I am not looking forward to the concert",
+        "Classifier": ""
+    },
+    {
+        "Tweet": "He is my enemy",
+        "Classifier": ""
+    }
+]
